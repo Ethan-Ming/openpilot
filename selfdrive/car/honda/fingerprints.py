@@ -1400,6 +1400,7 @@ FW_VERSIONS = {
       b'77959-T47-A950\x00\x00',
     ],
     (Ecu.combinationMeter, 0x18da60f1, None): [
+      b'78108-T20-A220\x00\x00',
       b'78108-T21-A220\x00\x00',
       b'78108-T21-A230\x00\x00',
       b'78108-T21-A620\x00\x00',
